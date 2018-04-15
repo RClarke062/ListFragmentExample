@@ -15,6 +15,7 @@ public class Fragment1 extends ListFragment {
             "John F. Kennedy",
             "Lyndon B. Johnson",
             "Richard Nixon",
+            "PRESIDENT TEST",
             "Gerald Ford",
             "Jimmy Carter",
             "Ronald Reagan",
